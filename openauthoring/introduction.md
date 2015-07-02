@@ -9,6 +9,6 @@ Open Authoring is a documentation work-flow which enables content owners, includ
 
 Coming soon!!!!!
 
-6c553VSO Localization is coming!!
+8b22VSO Localization is coming!!!!
 
 
