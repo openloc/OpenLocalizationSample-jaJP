@@ -4,3 +4,7 @@ Description: Reference entity sets, entity types, entity relationships, OData qu
 ms.ContentId: c52eebd6-25b4-4887-a7ad-fc5c83a91af4
 ms.topic: article (how-tos)
 ms.date: April 29, 2015
+
+It is a new topic
+
+
