@@ -15,6 +15,4 @@ Let's localized it
 
 Let's try open localization service now!
 
-This is for demo of OLS!
-
 
